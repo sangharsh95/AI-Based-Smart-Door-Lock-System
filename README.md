@@ -47,8 +47,8 @@ npm run dev
 ```
 
 ## 🔐 Default Admin Credentials
-* **Username:** `admin`
-* **Password:** `admin123`
+* **Username:** `#`
+* **Password:** `@`
 
 ## 📡 IoT Trigger Example
 When access is granted, the Node.js server publishes the following payload to the `btech/smarthome/door/unlock` MQTT topic:
