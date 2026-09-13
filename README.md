@@ -63,5 +63,5 @@ When access is granted, the Node.js server publishes the following payload to th
 Any ESP32 or IoT device subscribed to this topic can listen for this payload and trigger the physical relay to open the door.
 
 ---
-*Developed as a Final Year B.Tech Computer Science Project.*
+*Thank You*
 
