@@ -55,7 +55,7 @@ When access is granted, the Node.js server publishes the following payload to th
 ```json
 {
   "action": "unlock",
-  "user": "John Doe",
+  "user": "Sangarch's",
   "timestamp": "2026-09-13T10:00:00.000Z",
   "panic": false
 }
